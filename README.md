@@ -102,7 +102,7 @@
 #### 🔢 Evaluation Metrics — MNIST Digit Classifier
 <div align="center">
   <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecisionvsRecallCurve.png" width="45%" alt="Precision vs Recall Curve">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecvRecallvsThreshold.png" width="45%" alt="Precision Recall vs Threshold">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecvsRecallvsThreshold.png" width="45%" alt="Precision Recall vs Threshold">
 </div>
 
 <p align="center"><sub style="color:#C77DFF;">Binary classification metrics — threshold tuning and ROC analysis (AUC ≈ 0.99).</sub></p>
