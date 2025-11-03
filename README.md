@@ -62,6 +62,50 @@
 - **[MedTracker Frontend](https://github.com/cybereptilia/medtracker)** — AI-assisted medication management UI built with React + Tailwind.  
 - **[ML Playground](https://github.com/cybereptilia/ml-playground)** — Algorithm experiments (PCA, kNN, Naïve Bayes, logistic regression).  
 - **[Visualization Gallery](https://github.com/cybereptilia/viz-gallery)** — Beautiful, Python-powered data visualizations.  
+---
+
+### 📊 Machine Learning Visual Gallery
+
+#### 🌿 Iris Project — From-Scratch Classifier
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/SoftmaxOutputIris_project.png" width="45%" alt="Softmax Output">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/CrossEntropyLossIris_dataset.png" width="45%" alt="Cross Entropy Loss">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/GradientofWandGradientofBIrisDataset.png" width="45%" alt="Gradient of Weights">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/EpochLoss_IrisProj.png" width="45%" alt="Epoch Loss Convergence">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/ValidationAccuracy_IrisProj.png" width="45%" alt="Validation Accuracy">
+</div>
+
+<p align="center"><sub style="color:#C77DFF;">Manual Softmax Classifier — cross-entropy optimization, gradient descent, and 96.5% accuracy.</sub></p>
+
+---
+
+#### 🏠 Real Estate Price Prediction — Regression Pipeline
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/Feature_CorrelationsRealEstate.png" width="45%" alt="Feature Correlation Heatmap">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/FeatureImportance-HistogramGridRealEstate.png" width="45%" alt="Feature Importances">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/PredictedvsActualPricesRealEstate.png" width="45%" alt="Predicted vs Actual Prices">
+</div>
+
+<p align="center"><sub style="color:#C77DFF;">Regression model workflow — EDA, feature engineering, and model evaluation.</sub></p>
+
+---
+
+#### 🔢 Evaluation Metrics — MNIST Digit Classifier
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/PrecisionvsRecallCurve.png" width="45%" alt="Precision vs Recall Curve">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/Assets/PrecvRecallvsThreshold.png" width="45%" alt="Precision Recall vs Threshold">
+</div>
+
+<p align="center"><sub style="color:#C77DFF;">Binary classification metrics — threshold tuning and ROC analysis (AUC ≈ 0.99).</sub></p>
 
 ---
 
