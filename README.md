@@ -37,29 +37,8 @@
 
 ---
 
-### 📊 Visual Gallery — Data Science & ML
-
-<div align="center">
-
-  <!-- Row 1 -->
-  <p>
-    <img src="assets/correlation_matrix.png" width="40%" style="margin:8px;" alt="Correlation Heatmap">
-    <img src="assets/random_forest_feature_importance.png" width="48%" style="margin:8px;" alt="Feature Importance">
-  </p>
-
-  <!-- Row 2 -->
-  <p>
-    <img src="assets/roc_curve.png" width="48%" style="margin:8px;" alt="ROC Curve">
-    <img src="assets/clustering_tsne.png" width="40%" style="margin:8px;" alt="t-SNE Clustering Visualization">
-  </p>
-
-</div>
-
----
-
 ### 🧩 Selected Projects
-- **[Real Estate Price Prediction](https://github.com/cybereptilia/real-estate-ml)** — Linear/Random Forest models with GridSearchCV.  
-- **[MedTracker Frontend](https://github.com/cybereptilia/medtracker)** — AI-assisted medication management UI built with React + Tailwind.  
+- **[Real Estate Price Prediction](https://github.com/cybereptilia/real-estate-ml)** — Linear/Random Forest models with GridSearchCV.   
 - **[ML Playground](https://github.com/cybereptilia/ml-playground)** — Algorithm experiments (PCA, kNN, Naïve Bayes, logistic regression).  
 - **[Visualization Gallery](https://github.com/cybereptilia/viz-gallery)** — Beautiful, Python-powered data visualizations.  
 ---
