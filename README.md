@@ -1,9 +1,5 @@
-<div align="center">
-  <p align="center">
-    <img src="assets/pink_datawave_banner.png" alt="Datawave banner" width="100%">
-  </p>
 
-  <h1 style="color:#FF8FAB;">Rosaliz / cybereptilia</h1>
+  <h1 style="color:#FF8FAB;">Rosaliz Garcia / cybereptilia</h1>
   <h3 style="color:#C77DFF;">Machine Learning • Deep Learning • Data Science • AI Systems • Visualization</h3>
 
   <p><em>I teach machines to think in gradients and dream in data.</em></p>
