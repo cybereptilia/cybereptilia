@@ -43,12 +43,10 @@
 
 #### 🌿 Iris Project — From-Scratch Classifier
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/SoftmaxOutputIris_project.png" width="45%" alt="Softmax Output">
   <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/CrossEntropyLossIris_dataset.png" width="45%" alt="Cross Entropy Loss">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/GradientofWandGradientofBIrisDataset.png" width="45%" alt="Gradient of Weights">
   <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/EpochLoss_IrisProj.png" width="45%" alt="Epoch Loss Convergence">
 </div>
 
