@@ -145,8 +145,10 @@ Rocky Linux • Ubuntu • Windows
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybereptilia&layout=compact&theme=radical" alt="Top languages">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybereptilia&layout=compact&theme=radical"/>
+
+<br>
+
+<sub style="color:#FF8FAB;">Built for machine learning, data engineering, and accessible data storytelling.</sub>
 
 </div>
-
-<p align="center"><sub style="color:#FF8FAB;">Built for machine learning, data engineering, and accessible data storytelling.</sub></p>
