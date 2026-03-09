@@ -20,7 +20,7 @@ Machine Learning • Data Science • Data Engineering • AI Systems • Visual
 
 - Computer Science senior focusing on **Machine Learning and Data Science**  
 - Building **real-world predictive systems and data pipelines**  
-- Built **MedTracker**, a medication management application focused on usability, accessibility, and reliable patient interaction.
+- Developed the **frontend for MedTracker**, a medication management web created for my capstone project. Focused on intuitive UI design, accessibility, and reliable patient interaction.
 - Passionate about **ethical AI in healthcare and interpretable models**  
 - Bilingual (**English / Spanish**) advocate for accessible AI education  
 
