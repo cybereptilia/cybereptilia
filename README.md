@@ -94,7 +94,6 @@
 ---
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cybereptilia&show_icons=true&theme=radical" alt="GitHub stats">
   <br>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybereptilia&layout=compact&theme=radical" alt="Top languages">
 </div>
