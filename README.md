@@ -20,7 +20,7 @@ Machine Learning • Data Science • Data Engineering • AI Systems • Visual
 
 - Computer Science senior focusing on **Machine Learning and Data Science**  
 - Building **real-world predictive systems and data pipelines**  
-- Currently working on **MedTracker**, a medication management application with AI-guided form completion  
+- Built **MedTracker**, a medication management application focused on usability, accessibility, and reliable patient interaction.
 - Passionate about **ethical AI in healthcare and interpretable models**  
 - Bilingual (**English / Spanish**) advocate for accessible AI education  
 
