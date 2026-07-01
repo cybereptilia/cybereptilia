@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#FF8FAB;">Rosaliz Garcia / cybereptilia</h1>
 <h3 align="center" style="color:#C77DFF;">
-Machine Learning • Data Science • Data Engineering • AI Systems • Visualization
+Aspiring Machine Learning Engineer, currently building expertise through data analytics and engineering projects.
 </h3>
 
 <p align="center"><em>I teach machines to think in gradients and dream in data.</em></p>
@@ -18,11 +18,7 @@ Machine Learning • Data Science • Data Engineering • AI Systems • Visual
 
 # About Me
 
-- Computer Science senior focusing on **Machine Learning and Data Science**  
-- Building **real-world predictive systems and data pipelines**  
-- Developed the **frontend for MedTracker**, a medication management web created for my capstone project. Focused on intuitive UI design, accessibility, and reliable patient interaction.
-- Passionate about **ethical AI in healthcare and interpretable models**  
-- Bilingual (**English / Spanish**) advocate for accessible AI education  
+Recent CS grad (Data Science concentration) seeking Data Analyst / Junior Data Engineer roles, building toward a long-term goal in machine learning.
 
 ---
 
