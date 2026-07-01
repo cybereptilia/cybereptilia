@@ -70,7 +70,7 @@ https://github.com/cybereptilia/real-estate-ml
 
 # Current Work
 
-- **MedTracker Frontend** — React + Tailwind + OpenAI integration for conversational user guidance  
+- **MedTracker Frontend** — React + Tailwind integration for Front-end
 - **ML Study Series** — Implementing algorithms from *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*  
 - **Data Visualization Projects** — Interactive dashboards using Matplotlib, Seaborn, and Plotly  
 
