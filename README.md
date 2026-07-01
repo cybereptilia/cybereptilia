@@ -92,7 +92,7 @@ https://github.com/cybereptilia/real-estate-ml
   <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/ValidationAccuracy_IrisProj.png" width="45%" alt="Validation Accuracy">
 </div>
 
-<p align="center"><sub style="color:#C77DFF;">Manual Softmax classifier using gradient descent and cross-entropy optimization achieving 96.5% accuracy.</sub></p>
+<p align="center"><sub style="color:#C77DFF;">Manual Softmax classifier using gradient descent and cross-entropy optimization achieving 0.9667% accuracy.</sub></p>
 
 ---
 
