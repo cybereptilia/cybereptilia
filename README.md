@@ -81,12 +81,6 @@ https://github.com/cybereptilia/predictive-maintenance-sql
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/Feature_CorrelationsRealEstate.png" width="45%" alt="Feature Correlation Heatmap">
-  <br>
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/FeatureImportance-HistogramGridRealEstate.png" width="45%" alt="Feature Importances">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PredictedvsActualPricesRealEstate.png" width="45%" alt="Predicted vs Actual Prices">
 </div>
 
 <p align="center"><sub style="color:#C77DFF;">Complete regression pipeline including EDA, feature engineering, model training, and evaluation.</sub></p>
