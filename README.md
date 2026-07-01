@@ -3,8 +3,6 @@
 Aspiring Machine Learning Engineer, currently building expertise through data analytics and engineering projects.
 </h3>
 
-<p align="center"><em>I teach machines to think in gradients and dream in data.</em></p>
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-ML/AI-303030?logo=python&logoColor=FFDD54&labelColor=202020">
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-ML%20Pipelines-303030?logo=scikitlearn&logoColor=FF8FAB&labelColor=202020">
@@ -51,19 +49,6 @@ https://github.com/cybereptilia/predictive-maintenance-sql
 
 ---
 
-### Real Estate Price Prediction
-End-to-end machine learning workflow predicting housing prices.
-
-**Concepts**
-- feature engineering  
-- regression models  
-- GridSearchCV hyperparameter tuning  
-- model evaluation and visualization  
-
-https://github.com/cybereptilia/real-estate-ml
-
----
-
 # Current Work
 
 - **MedTracker Frontend** — React + Tailwind integration for Front-end
@@ -72,7 +57,7 @@ https://github.com/cybereptilia/real-estate-ml
 
 ---
 
-# Machine Learning Visual Gallery
+# Self-Study & Practice Projects
 
 ## Iris Project — From-Scratch Classifier
 
@@ -88,7 +73,7 @@ https://github.com/cybereptilia/real-estate-ml
   <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/ValidationAccuracy_IrisProj.png" width="45%" alt="Validation Accuracy">
 </div>
 
-<p align="center"><sub style="color:#C77DFF;">Manual Softmax classifier using gradient descent and cross-entropy optimization achieving 0.9667% accuracy.</sub></p>
+<p align="center"><sub style="color:#C77DFF;">Manual Softmax classifier using gradient descent and cross-entropy optimization achieving 96.67% accuracy.</sub></p>
 
 ---
 
