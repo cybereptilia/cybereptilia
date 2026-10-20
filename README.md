@@ -69,9 +69,10 @@ https://github.com/cybereptilia/predictive-maintenance-sql
 
 # Current Work
 
-- **MedTracker Frontend** — React + Tailwind integration for Front-end
-- **ML Study Series** — Implementing algorithms from *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*  
-- **Data Visualization Projects** — Interactive dashboards using Matplotlib, Seaborn, and Plotly  
+- **Healthcare Claims Fraud Detection** — evaluating baseline models on the pipeline's synthetic claims
+- **MedTracker Frontend** — React + Tailwind integration for the front end
+- **ML Study Series** — implementing algorithms from *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*
+- **Master's coursework** — Knowledge Discovery and Data Mining (Big Data), Polytechnic University of Puerto Rico
 
 ---
 
