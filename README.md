@@ -81,41 +81,33 @@ https://github.com/cybereptilia/predictive-maintenance-sql
 ## Iris Project — From-Scratch Classifier
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/CrossEntropyLossIris_dataset.png" width="45%" alt="Cross Entropy Loss">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/EpochLoss_IrisProj.png" width="35%" alt="Training loss by epoch, from 1.095 at epoch 0 to 0.5755 at epoch 900">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/EpochLoss_IrisProj.png" width="45%" alt="Epoch Loss Convergence">
-</div>
+<p align="center"><b>Final cross-entropy loss:</b> 0.290 · <b>Validation accuracy:</b> 96.67%</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/ValidationAccuracy_IrisProj.png" width="45%" alt="Validation Accuracy">
-</div>
-
-<p align="center"><sub style="color:#C77DFF;">Manual Softmax classifier using gradient descent and cross-entropy optimization achieving 96.67% accuracy.</sub></p>
+<p align="center"><sub>Manual softmax classifier trained with gradient descent and cross-entropy loss. The loss spike at epoch 100 comes from a high learning rate; training recovers and converges by epoch 900.</sub></p>
 
 ---
 
 ## Real Estate Price Prediction — Regression Pipeline
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/Feature_CorrelationsRealEstate.png" width="45%" alt="Feature Correlation Heatmap">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/Feature_CorrelationsRealEstate.png" width="40%" alt="Feature correlation heatmap">
 </div>
 
-<p align="center"><sub style="color:#C77DFF;">Complete regression pipeline including EDA, feature engineering, model training, and evaluation.</sub></p>
+<p align="center"><sub>Complete regression pipeline including EDA, feature engineering, model training, and evaluation.</sub></p>
 
 ---
 
 ## Evaluation Metrics — MNIST Digit Classifier
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecisionvsRecallCurve.png" width="45%" alt="Precision vs Recall Curve">
-  <br>
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecvsRecallvsThreshold.png" width="45%" alt="Precision Recall vs Threshold">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecisionvsRecallCurve.png" width="45%" alt="Precision vs. recall curve">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecvsRecallvsThreshold.png" width="45%" alt="Precision and recall vs. decision threshold">
 </div>
 
-<p align="center"><sub style="color:#C77DFF;">Binary classification evaluation including precision-recall tradeoffs and ROC analysis (AUC ≈ 0.99).</sub></p>
-
+<p align="center"><sub>Binary classification evaluation including precision-recall tradeoffs and ROC analysis (AUC ≈ 0.99).</sub></p>
 ---
 
 # Toolchain
@@ -126,8 +118,11 @@ Python • SQL • JavaScript • C++ • Java
 **Libraries & ML Frameworks**  
 NumPy • Pandas • Scikit-Learn • TensorFlow • Keras • Matplotlib • Seaborn
 
-**Data Tools**  
-PostgreSQL • JupyterLab • Google Colab • Excel
+**Data Tools**
+PostgreSQL • SQLAlchemy • Streamlit • Altair • JupyterLab • Google Colab • Excel
+
+**Web**
+React • Tailwind CSS
 
 **Workflow**  
 Git • GitHub • Virtual Environments
