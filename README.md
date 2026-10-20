@@ -103,11 +103,12 @@ https://github.com/cybereptilia/predictive-maintenance-sql
 ## Evaluation Metrics — MNIST Digit Classifier
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecisionvsRecallCurve.png" width="45%" alt="Precision vs. recall curve">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecvsRecallvsThreshold.png" width="45%" alt="Precision and recall vs. decision threshold">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecisionvsRecallCurve.png" height="260" alt="Precision vs. recall curve">
+  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecvsRecallvsThreshold.png" height="260" alt="Precision and recall vs. decision threshold"> 
 </div>
 
 <p align="center"><sub>Binary classification evaluation including precision-recall tradeoffs and ROC analysis (AUC ≈ 0.99).</sub></p>
+
 ---
 
 # Toolchain
@@ -116,12 +117,12 @@ https://github.com/cybereptilia/predictive-maintenance-sql
 Python • SQL • JavaScript • C++ • Java
 
 **Libraries & ML Frameworks**  
-NumPy • Pandas • Scikit-Learn • TensorFlow • Keras • Matplotlib • Seaborn
+NumPy • pandas • Scikit-Learn • TensorFlow • Keras • Matplotlib • Seaborn
 
-**Data Tools**
+**Data Tools**  
 PostgreSQL • SQLAlchemy • Streamlit • Altair • JupyterLab • Google Colab • Excel
 
-**Web**
+**Web**  
 React • Tailwind CSS
 
 **Workflow**  
