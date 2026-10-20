@@ -23,14 +23,19 @@ Recent CS grad (Data Science concentration) seeking Data Analyst / Junior Data E
 # Featured Engineering Projects
 
 ### Healthcare Claims Data Pipeline
-End-to-end data pipeline that generates synthetic healthcare claims data, validates records, loads them into PostgreSQL, and produces analytics-ready reports.
+
+End-to-end pipeline that generates messy synthetic healthcare claims, validates and cleans them, loads them into PostgreSQL with run logging and row-level reconciliation, and serves the results in an interactive Streamlit dashboard.
+
+<a href="https://github.com/cybereptilia/healthcare-claims-pipeline">
+  <img src="https://raw.githubusercontent.com/cybereptilia/healthcare-claims-pipeline/main/docs/images/dashboard-overview.png" width="720" alt="Healthcare Claims Dashboard: KPI tiles and claims by status and member state">
+</a>
 
 **Concepts**
-- ETL pipeline design  
-- SQL analytics views  
-- data validation & reject handling  
-- indexing and query optimization  
-- automated pipeline execution  
+- ETL pipeline design with reject handling and raw = clean + rejected reconciliation
+- auditable loads (pipeline run log and `run_id` lineage)
+- PostgreSQL constraints, indexes, and analytics views
+- interactive Streamlit dashboard (5 tabs) with parameterized SQL
+- fraud-detection baseline models (in progress)
 
 https://github.com/cybereptilia/healthcare-claims-pipeline
 
