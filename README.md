@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#FF8FAB;">Rosaliz Garcia / cybereptilia</h1>
 <h3 align="center" style="color:#C77DFF;">
-Aspiring Machine Learning Engineer, currently building expertise through data analytics and engineering projects.
+CS graduate & master's student · I build data pipelines, analytics dashboards, and web apps
 </h3>
 
 <p align="center">
@@ -16,7 +16,17 @@ Aspiring Machine Learning Engineer, currently building expertise through data an
 
 # About Me
 
-Recent CS grad (Data Science concentration) seeking Data Analyst / Junior Data Engineer roles, building toward a long-term goal in machine learning.
+B.S. in Computer Science (Data Science concentration) and master's student in Knowledge Discovery and Data Mining (Big Data) at Polytechnic University of Puerto Rico.
+
+My focus is data: pipelines that validate and reconcile messy data, SQL analytics on PostgreSQL, and dashboards people can explore. I also build the software around it, from Python tooling to React front ends, and I'm growing toward machine learning.
+
+Open to entry-level and internship roles in data analytics, data engineering, and software development in Puerto Rico.
+
+| Area | Projects |
+|---|---|
+| Data engineering & analytics | [Healthcare Claims Data Pipeline](https://github.com/cybereptilia/healthcare-claims-pipeline) · [Predictive Maintenance SQL](https://github.com/cybereptilia/predictive-maintenance-sql) |
+| Software & web | [MedTracker Frontend](https://github.com/cybereptilia/Medicine-Tracker-Front) (React + Tailwind) |
+| Machine learning | [Iris classifier from scratch](https://github.com/cybereptilia/iris_project) · [Real estate regression](https://github.com/cybereptilia/real-estate-ml) · [Evaluation metrics](https://github.com/cybereptilia/Chapter-3-Evaluation-Metrics) |
 
 ---
 
