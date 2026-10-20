@@ -4,12 +4,15 @@ CS graduate & master's student · I build data pipelines, analytics dashboards, 
 </h3>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-ML/AI-303030?logo=python&logoColor=FFDD54&labelColor=202020">
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-ML%20Pipelines-303030?logo=scikitlearn&logoColor=FF8FAB&labelColor=202020">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-303030?logo=tensorflow&logoColor=FF6F00&labelColor=202020">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-EDA/Feature%20Eng.-303030?logo=pandas&logoColor=FF8FAB&labelColor=202020">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-Data%20Viz-303030?logo=plotly&logoColor=C77DFF&labelColor=202020">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Queries-303030?logo=postgresql&logoColor=00FFFF&labelColor=202020">
+ <img src="https://img.shields.io/badge/Python-Data%20%26%20Tooling-2b2b2b?logo=python&logoColor=white" alt="Python: data and tooling">
+<img src="https://img.shields.io/badge/SQL-PostgreSQL-2b2b2b?logo=postgresql&logoColor=white" alt="SQL: PostgreSQL">
+<img src="https://img.shields.io/badge/pandas-Data%20Analysis-2b2b2b?logo=pandas&logoColor=white" alt="pandas: data analysis">
+<img src="https://img.shields.io/badge/Streamlit-Dashboards-2b2b2b?logo=streamlit&logoColor=white" alt="Streamlit: dashboards">
+<img src="https://img.shields.io/badge/React-Web%20Apps-2b2b2b?logo=react&logoColor=white" alt="React: web apps">
+<img src="https://img.shields.io/badge/Git-Version%20Control-2b2b2b?logo=git&logoColor=white" alt="Git: version control">
+<img src="https://img.shields.io/badge/Linux-Rocky%20%2F%20Ubuntu-2b2b2b?logo=linux&logoColor=white" alt="Linux: Rocky and Ubuntu">
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-2b2b2b?logo=scikitlearn&logoColor=white" alt="Scikit-Learn: machine learning">
+<img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-2b2b2b?logo=tensorflow&logoColor=white" alt="TensorFlow: deep learning">
 </p>
 
 ---
