@@ -103,11 +103,13 @@ https://github.com/cybereptilia/predictive-maintenance-sql
 ## Evaluation Metrics — MNIST Digit Classifier
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecisionvsRecallCurve.png" height="260" alt="Precision vs. recall curve">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/PrecvsRecallvsThreshold.png" height="260" alt="Precision and recall vs. decision threshold"> 
+  <img src="https://raw.githubusercontent.com/cybereptilia/Chapter-3-Evaluation-Metrics/main/images/precision_recall_curve.png" height="240" alt="Precision-recall curve, AP = 0.899">
+  <img src="https://raw.githubusercontent.com/cybereptilia/Chapter-3-Evaluation-Metrics/main/images/roc_curve.png" height="240" alt="ROC curve, AUC = 0.977">
 </div>
 
-<p align="center"><sub>Binary classification evaluation including precision-recall tradeoffs and ROC analysis (AUC ≈ 0.99).</sub></p>
+<p align="center"><b>ROC AUC:</b> 0.977 · <b>Average precision:</b> 0.899 · <b>Precision / recall:</b> 93% / 77%</p>
+
+<p align="center"><sub>KNN "is it a 5?" classifier evaluated with 3-fold cross-validation on 1,000 MNIST images. I found and fixed an evaluation leak (curves were computed on the training images, inflating AUC to 0.998).</sub></p>
 
 ---
 
