@@ -81,12 +81,12 @@ https://github.com/cybereptilia/predictive-maintenance-sql
 ## Iris Project — From-Scratch Classifier
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cybereptilia/cybereptilia/main/assets/EpochLoss_IrisProj.png" width="35%" alt="Training loss by epoch, from 1.095 at epoch 0 to 0.5755 at epoch 900">
+  <img src="https://raw.githubusercontent.com/cybereptilia/iris_project/main/images/training_loss.png" width="45%" alt="Training loss over 1,000 epochs, dropping smoothly from 1.08 to 0.0585">
 </div>
 
-<p align="center"><b>Final cross-entropy loss:</b> 0.290 · <b>Validation accuracy:</b> 96.67%</p>
+<p align="center"><b>Final training loss:</b> 0.0585 · <b>Validation accuracy:</b> 100% (30 of 30)</p>
 
-<p align="center"><sub>Manual softmax classifier trained with gradient descent and cross-entropy loss. The loss spike at epoch 100 comes from a high learning rate; training recovers and converges by epoch 900.</sub></p>
+<p align="center"><sub>Softmax regression written from scratch in NumPy. I found and fixed a gradient-scaling bug (gradients were summed instead of averaged), so the loss now decreases at every step.</sub></p>
 
 ---
 
