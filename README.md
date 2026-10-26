@@ -37,7 +37,7 @@ Open to entry-level and internship roles in data analytics, data engineering, an
 
 ### Healthcare Claims Data Pipeline
 
-End-to-end pipeline that generates messy synthetic healthcare claims, validates and cleans them, loads them into PostgreSQL with run logging and row-level reconciliation, and serves the results in an interactive Streamlit dashboard.
+End-to-end pipeline that generates messy synthetic healthcare claims, validates and cleans them, loads them into PostgreSQL with run logging and row-level reconciliation, serves the results in an interactive Streamlit dashboard, and trains a fraud-detection model on simulated fraud schemes.
 
 <a href="https://github.com/cybereptilia/healthcare-claims-pipeline">
   <img src="https://raw.githubusercontent.com/cybereptilia/healthcare-claims-pipeline/main/docs/images/dashboard-overview.png" width="720" alt="Healthcare Claims Dashboard: KPI tiles and claims by status and member state">
@@ -48,7 +48,7 @@ End-to-end pipeline that generates messy synthetic healthcare claims, validates 
 - auditable loads (pipeline run log and `run_id` lineage)
 - PostgreSQL constraints, indexes, and analytics views
 - interactive Streamlit dashboard (5 tabs) with parameterized SQL
-- fraud-detection baseline models (in progress)
+- fraud-detection on simulated schemes (upcoding, inflated billing, duplicates): 92% recall while flagging 2% of claims, with validation-based model selection
 
 https://github.com/cybereptilia/healthcare-claims-pipeline
 
